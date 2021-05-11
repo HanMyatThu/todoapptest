@@ -1,4 +1,4 @@
-# React redux todo app
+# React redux + nodejs todo app
 
 ## Running the code
 
